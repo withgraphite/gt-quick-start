@@ -1,2 +1,1 @@
-# gt-quick-start
-Getting started with Graphite!
+This repo is created with Graphite!
